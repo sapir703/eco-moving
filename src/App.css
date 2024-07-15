@@ -1,0 +1,56 @@
+.body{
+  min-height: 83vh;
+  display: flex;
+  flex-direction: column;
+}
+.footer {
+  background-color: #333;
+  color: #fff;
+  position: relative;
+  bottom: 0;
+  width: 100vw;
+  margin-top: auto;
+  font-size: 1.6vh;
+}
+
+.footer-container
+{
+  height: 13vh;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  max-width: 100vh;
+  margin: 0 auto;
+  padding: 0 2vh;
+}
+
+.footer-logo {
+  flex: 1;
+  margin-top: 4vh;
+}
+
+
+
+
+.footer-contact h2 {
+  font-size: 2vh;
+}
+.footer-contact {
+  padding: 1vh;
+}
+.footer-bottom {
+  height:2vh;
+  text-align: center;
+  background-color: #222;
+  padding: 1vh 0;
+}
+
+.footer-bottom p {
+  margin: 0;
+  font-size: 1.4vh;
+}
+.center {
+  text-align: center;
+  padding-bottom: 5vh;
+}
