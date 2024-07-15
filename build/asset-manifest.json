@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0f984cf6.css",
+    "main.js": "/static/js/main.ff9d4379.js",
+    "static/js/453.0bb74ddc.chunk.js": "/static/js/453.0bb74ddc.chunk.js",
+    "static/media/ecoMovingEmployees.jpeg": "/static/media/ecoMovingEmployees.43f1f0c2215a671b88b4.jpeg",
+    "index.html": "/index.html",
+    "main.0f984cf6.css.map": "/static/css/main.0f984cf6.css.map",
+    "main.ff9d4379.js.map": "/static/js/main.ff9d4379.js.map",
+    "453.0bb74ddc.chunk.js.map": "/static/js/453.0bb74ddc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f984cf6.css",
+    "static/js/main.ff9d4379.js"
+  ]
+}
